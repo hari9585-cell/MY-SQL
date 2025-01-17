@@ -92,3 +92,35 @@ Submitted : Hari sankar
 15. Find all countries with a population between 5 lakhs and 20 lakhs. 
 16. Find all countries whose names do not start with 'C'.
 
+
+# My SQL Project 5
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Grouping and Sorting data.
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 5:
+
+1. Created a new tab in SQL
+2. Created a database named World.
+3. Created 2 different tables in data named Table 1 as Country, and Table 2 as Person.
+4. updated 10 random datas to both tables like name, Country name, code, Population, ranking, etc.
+5. Worked on many queries like, MAX, MIN, AVG, ORDER BY, ascending, descending, LIMIT etc. 
+6. Print the first three characters of Country_name from the Country table
+7. Concatenate first name and last name from the Persons table.
+8. Count the number of unique country names from the Persons table.
+9. Print the maximum population from the Country table.
+10. Print the maximum population from the Country table.
+11. Print the minimum population from the Persons table.
+12. Insert 2 new rows to the Persons table with Lname as NULL.
+13. Count the number of rows in the Persons table.
+14. Show the population of the Country table for the first 3 rows. 
+15. Print 3 random rows of countries.
+16. Find countries in the Persons table with a total population greater than 50,000.
+17. List all persons ordered by their rating in descending order.
+18. Find the total population for each country in the Persons table.
+19. List the total number of persons and average rating for each country, but only for countries with more than 2 persons, ordered by the average rating in ascending order.
+
+
+
