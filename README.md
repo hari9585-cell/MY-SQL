@@ -64,3 +64,31 @@ Submitted : Hari sankar
 9. Created a query to display records of all managers except named ‘Aaliya
 10. Created Query to Display Details of Managers in IT Department Earning More than ₹25,000.
 11. Query to Display Details of Managers with Salary Between ₹10,000 and ₹35,000.
+
+
+# My SQL Project 4
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Querying Data
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 4:
+
+1. Created a new tab in SQL
+2. Created a database named Population.
+3. Created table named Country in database.
+4. Added counry name, Population, Area in table.
+5. Created another table named person with relevant columns.
+6. Insert 10 random datas in both tables in database.
+7. created a list the distinct country names from the Persons table 
+8. Select first names and last names from the Persons table with aliases. 
+9. Find all persons with a rating greater than 4.0. 
+10. Find countries with a population greater than 10 lakhs. 
+11. Find persons who are from 'USA' or have a rating greater than 4.5. 
+12. Find all persons where the country name is NULL. 
+13. Find all persons from the countries 'USA', 'Canada', and 'UK'.
+14. Find all persons not from the countries 'India' and 'Australia'. 
+15. Find all countries with a population between 5 lakhs and 20 lakhs. 
+16. Find all countries whose names do not start with 'C'.
+
