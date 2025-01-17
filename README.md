@@ -124,3 +124,19 @@ Submitted : Hari sankar
 
 
 
+# My SQL Project 6
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Joins and Union
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 6:
+
+1. Created a new tab in SQL
+2. We have taken our previous dataset itself.( Population)
+3. We have created Inner Join, left join, Right join function in Data.
+4. Created list of all Distinct Country Names from Both Tables
+5. Created list of all Country Names from Both Tables, Including Duplicates.
+6. Round the ratings of all persons to the nearest integer in the Persons table.
+
