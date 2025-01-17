@@ -42,3 +42,24 @@ Submitted : Hari sankar
 10. Delete the table from database.
 
 
+
+
+# My SQL Project 3
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Project 3 : DML Commands
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 3:
+
+1. Created a new tab in SQL
+2. Created a database named Employees
+3. Create table in database with name Managers
+4. Added 10 random values and datas in table.
+5. Added Manager name, ID, Age, salary, department.
+6. Use check function in Age to check the age greater than 18.
+7. Write a query that retrieves the name and date of birth of the manager with Manager_Id
+8. Created a query to display the annual income of all managers.
+9. Created a query to display records of all managers except named ‘Aaliya
+10. Created Query to Display Details of Managers in IT Department Earning More than ₹25,000.
