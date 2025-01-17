@@ -33,3 +33,6 @@ SELECT * FROM Managers WHERE First_name <> 'Aaliya';
 
 Select * from Managers Where department = 'IT' and Salary> 25000;
 
+SELECT * FROM Managers WHERE Salary BETWEEN 10000 AND 35000;
+
+
