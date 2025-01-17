@@ -63,3 +63,4 @@ Submitted : Hari sankar
 8. Created a query to display the annual income of all managers.
 9. Created a query to display records of all managers except named ‘Aaliya
 10. Created Query to Display Details of Managers in IT Department Earning More than ₹25,000.
+11. Query to Display Details of Managers with Salary Between ₹10,000 and ₹35,000.
