@@ -140,3 +140,23 @@ Submitted : Hari sankar
 5. Created list of all Country Names from Both Tables, Including Duplicates.
 6. Round the ratings of all persons to the nearest integer in the Persons table.
 
+
+
+# My SQL Project 7
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Functions
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 7:
+
+1. Created a new tab in SQL
+2. We have taken our previous dataset itself.( World)
+3. We have some queries to add functions and add DOB with Alter function.
+4. calculate DOB using delimiter defined function in SQL.
+5.Populate the DOB column using the provided UPDATE statements.
+6. Create the CalculateAge function.
+7. Query the Persons table to fetch ages.
+8. Execute queries on the Country table to find the length, extract characters, and convert case.
+
