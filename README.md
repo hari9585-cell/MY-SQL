@@ -195,6 +195,26 @@ Submitted : Hari sankar
 
 
 
+# My SQL Project 9
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Stored Procedures
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 9:
+
+1. Created a new tab in SQL
+2. Created a database called JOB.
+3. Create table name worker.
+4. Added table with Worker_Id INT FirstName CHAR(25), LastName CHAR(25), Salary INT(15), JoiningDate DATETIME, Department CHAR(25).
+4. Created a stored procedure that takes in IN parameters for all the columns in the Worker table and adds a new record to the table and then invokes the procedure call. 
+5. Written a  stored procedure takes in an IN parameter for WORKER_ID and an OUT parameter for SALARY. It should retrieve the salary of the worker with the given ID and returns it in the p_salary parameter. Then make the procedure call.
+6. Created a stored procedure that takes in IN parameters for WORKER_ID and DEPARTMENT. It should update the department of the worker with the given ID. Then make a procedure call. 
+7. Written a stored procedure that takes in an IN parameter for DEPARTMENT and an OUT parameter for p_workerCount. It should retrieve the number of workers in the given department and returns it in the p_workerCount parameter. Make procedure call.
+8. Written a stored procedure that takes in an IN parameter for DEPARTMENT and an OUT parameter for p_avgSalary. It should retrieve the average salary of all workers in the given department and returns it in the p_avgSalary parameter and call the procedure.
+
+
 
 
 
