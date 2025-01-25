@@ -215,24 +215,21 @@ Submitted : Hari sankar
 8. Written a stored procedure that takes in an IN parameter for DEPARTMENT and an OUT parameter for p_avgSalary. It should retrieve the average salary of all workers in the given department and returns it in the p_avgSalary parameter and call the procedure.
 
 
+# My SQL Project 10
 
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
 
+# Triggers
+Submitted : Hari sankar
 
+# STEPS DONE FOR PROJECT 10:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Created a new tab in SQL
+2. Created a database called Teacherfile.
+3. Created table name Teachers.
+4. Created a table named teachers with fields id, name, subject, experience and salary and insert 8 rows. 
+5. Created a before insert trigger named before_insert_teacher that will raise an error “salary cannot be negative” if the salary inserted to the table is less than zero. 
+4. Created an after insert trigger named after_insert_teacher that inserts a row with teacher_id,action, timestamp to a table called teacher_log when a new entry gets inserted to the teacher table. tecaher_id -> column of teacher table, action -> the trigger action, timestamp -> time at which the new row has got inserted. 
+5. Created a before delete trigger that will raise an error when you try to delete a row that has experience greater than 10 years. 
+6. Created an after delete trigger that will insert a row to teacher_log table when that row is deleted from teacher table.
+7. 
