@@ -156,7 +156,63 @@ Submitted : Hari sankar
 3. We have some queries to add functions and add DOB with Alter function.
 4. calculate DOB using delimiter defined function in SQL.
 5.Populate the DOB column using the provided UPDATE statements.
-6. Create the CalculateAge function.
-7. Query the Persons table to fetch ages.
-8. Execute queries on the Country table to find the length, extract characters, and convert case.
+5. Create the CalculateAge function.
+6. Query the Persons table to fetch ages.
+7. Execute queries on the Country table to find the length, extract characters, and convert case.
+
+
+# My SQL Project 8
+
+This file is my projects regarding the topic MY SQL, Viewers can see my latest SQL works under this file.
+
+# Subqueries and Views
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 8:
+
+1. Created a new tab in SQL
+2. We have taken our previous dataset itself.
+3. Worked some Subqueries with dataset.
+4. Find the number of persons in each country. 
+5. Find the number of persons in each country sorted   from high to low. 
+6. Find out an average rating for Persons in respective countries if the average is greater than 3.
+7. Find the countries with the same rating as the USA. (Use Subqueries) 
+8. Select all countries whose population is greater than the average population of all nations.
+
+# New database created with name Product for VIEW functions
+
+# STEPS: 
+
+1. Create a database named Product.
+2. create a table called Customer with the following fields in the Product database: Customer_Id - Make PRIMARY KEY First_name Last_name Email Phone_no Address City State Zip_code Country.
+3. Create a view named customer_info for the Customer table that displays Customer’s Full name and email address. Then perform the SELECT operation for the customer_info view.
+4. Create a view named US_Customers that displays customers located in the US.
+5. Create another view named Customer_details with columns full name(Combine first_name and last_name), email, phone_no, and state.
+6. Update phone numbers of customers who live in California for Customer_details view.
+7. Count the number of customers in each state and show only states with more than 5 customers.
+8. Write a query that will return the number of customers in each state, based on the "state" column in the "customer_details" view.
+9. Write a query that returns all the columns from the "customer_details" view, sorted by the "state" column in ascending order.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
