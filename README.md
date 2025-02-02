@@ -232,4 +232,48 @@ Submitted : Hari sankar
 4. Created an after insert trigger named after_insert_teacher that inserts a row with teacher_id,action, timestamp to a table called teacher_log when a new entry gets inserted to the teacher table. tecaher_id -> column of teacher table, action -> the trigger action, timestamp -> time at which the new row has got inserted. 
 5. Created a before delete trigger that will raise an error when you try to delete a row that has experience greater than 10 years. 
 6. Created an after delete trigger that will insert a row to teacher_log table when that row is deleted from teacher table.
-7. 
+
+
+
+
+# My SQL Project 11  - FINAL ASSIGNMENT.
+
+My Main project under SQL with all attriutes and wokred on many queries, Project is regarding Library Management System which library issues and return books with customer name and branches details.
+
+# FINAL ASSIGNMENT
+Submitted : Hari sankar
+
+# STEPS DONE FOR PROJECT 11:
+
+1. Created a new tab in SQL
+2. Created a database called Library.
+3. Created tables named Branch, Employees, Books, Customer, Issue status, ReturnStatus Table,
+4. Inserted raw datas from outside and added under all tables
+5. Added primary keys and different attributes in each tables.
+6. Worked on queries below:
+
+7. Retrieve the book title, category, and rental price of all available books. 
+
+8. List the employee names and their respective salaries in descending order of salary. 
+
+9. Retrieve the book titles and the corresponding customers who have issued those books. 
+
+10. Display the total count of books in each category.
+
+11. Retrieve the employee names and their positions for the employees whose salaries are above Rs.50,000.
+
+12. List the customer names who registered before 2022-01-01 and have not issued any books yet.
+
+13. Display the branch numbers and the total count of employees in each branch. 
+
+14. Display the names of customers who have issued books in the month of June 2023. 
+
+15. Retrieve book_title from book table containing history. 
+
+16. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees 
+
+17. Retrieve the names of employees who manage branches and their respective branch addresses.
+
+18. Display the names of customers who have issued books with a rental price higher than Rs. 25. 
+
+19. Saved all script and Added screenshots of result in seperate folder and attached in Github.
